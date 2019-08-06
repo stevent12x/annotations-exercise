@@ -1,6 +1,5 @@
 public class Main {
-    @SuppressWarnings("deprecation")
-
+    @Deprecated
     public static void main(String[] args) {
 
         Author author = new Author("Sandi", "Metz");
